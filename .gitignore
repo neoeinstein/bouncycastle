@@ -1,0 +1,7 @@
+bin/
+obj/
+TestResults/
+*.suo
+*.user
+*.vs10x
+_ReSharper*
